@@ -1,0 +1,22 @@
+[PROJECT]
+Target=Xedieukhien.hex
+Processor_Text=PIC16F877A
+CCSVerions=5.015
+Compiler=PCM
+CCSVersion=5.015
+[Target Data]
+FileList=Xedieukhien.c
+[Directories]
+Include=C:\Program Files (x86)\PICC\Devices\;C:\Program Files (x86)\PICC\Drivers\
+[C:\Users\Administrator\Desktop\hoang\Pic16f877a\Xedieukhien]
+Type=4
+[mru-list]
+1=Xedieukhien.c
+[Opened Files]
+1=Xedieukhien.c
+2=
+[Xedieukhien.c]
+Type=4
+[Units]
+Count=1
+1=Xedieukhien (main)
